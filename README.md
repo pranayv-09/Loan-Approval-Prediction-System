@@ -1,5 +1,22 @@
 # 🏦 Loan Approval Prediction System
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+End-to-End Machine Learning Loan Approval Prediction System using Python, Scikit-Learn, XGBoost and Streamlit.
+
+## 🚀 Live Features
+
+- Loan Approval Prediction
+- Approval Probability Score
+- Feature Importance Analysis
+- Interactive Streamlit Dashboard
+- Multiple ML Models Comparison
+
+---
+
 ## 📌 Project Overview
 
 This project predicts whether a loan application should be approved or rejected using Machine Learning.
@@ -130,12 +147,33 @@ Features:
 
 ---
 
+## 📸 Application Screenshots
+
+### 🏠 Home Screen
+
+![Home Screen](reports/figures/streamlit_home.png)
+
+### ✅ Loan Approved Prediction
+
+![Approved Prediction](reports/figures/streamlit_approved.png)
+
+### ❌ Loan Rejected Prediction
+
+![Rejected Prediction](reports/figures/streamlit_rejected.png)
+
+---
+
+## 📊 Feature Importance
+
+![Feature Importance](reports/figures/feature_importance.png)
+
 ## 🚀 How to Run
 
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/pranayv-09/Loan-Approval-Prediction-System.git
+cd Loan-Approval-Prediction-System
 ```
 
 ### Create Virtual Environment
@@ -146,8 +184,16 @@ python -m venv venv
 
 ### Activate Environment
 
+Windows:
+
 ```bash
 venv\Scripts\activate
+```
+
+Linux / macOS:
+
+```bash
+source venv/bin/activate
 ```
 
 ### Install Dependencies
