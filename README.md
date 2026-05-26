@@ -5,7 +5,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-End-to-End Machine Learning Loan Approval Prediction System using Python, Scikit-Learn, XGBoost and Streamlit.
+End-to-End Machine Learning Loan Approval Prediction System using Python, Scikit-Learn, Logistic Regression and Streamlit.
 
 ## 🚀 Live Features
 
